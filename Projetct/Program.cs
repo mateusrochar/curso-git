@@ -12,6 +12,7 @@ namespace Projetct
         {
             Console.WriteLine("Hello Word");
             Console.WriteLine("Gothen Morgan");
+            Console.WriteLine("Buenos Dias");
         }
     }
 }
